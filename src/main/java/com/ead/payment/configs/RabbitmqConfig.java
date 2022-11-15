@@ -30,16 +30,3 @@ public class RabbitmqConfig {
         return  new Jackson2JsonMessageConverter(objectMapper);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

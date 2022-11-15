@@ -23,21 +23,3 @@ public class AuthenticationEntryPointImpl implements AuthenticationEntryPoint {
         httpServletResponse.sendError(HttpServletResponse.SC_UNAUTHORIZED, "Unauthorized");
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

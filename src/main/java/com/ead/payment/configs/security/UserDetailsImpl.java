@@ -78,17 +78,3 @@ public class UserDetailsImpl implements UserDetails {
         this.authorities = authorities;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

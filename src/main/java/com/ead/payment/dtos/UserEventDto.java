@@ -105,18 +105,3 @@ public class UserEventDto {
         this.actionType = actionType;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
